@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Túlio</h1>
+<h1 align="center">Hi 👋, I'm Túlio!</h1>
+<p align="center">also known as Toliu</p>
 <h3 align="center">Dev. Front end / UX & UI Designer</h3>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aka-toliu&show_icons=true&locale=en&layout=compact" alt="aka-toliu"/>

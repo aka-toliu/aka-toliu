@@ -5,8 +5,10 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
-<a href="https://codepen.io/toliu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toliu" height="30" width="40" />Codepen</a>
+<a href="https://codepen.io/toliu" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)" alt="toliu" height="30" width="40" />Codepen</a>
 <a href="https://linkedin.com/in/akatoliu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akatoliu" height="30" width="40" />Linkedin</a>
 <a href="https://www.behance.net/toliu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="toliu" height="30" width="40" />Behance</a>
 </p>

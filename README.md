@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://codepen.io/toliu" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)" alt="toliu" height="30" width="40" />Codepen</a>
 <a href="https://linkedin.com/in/akatoliu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akatoliu" height="30" width="40" />Linkedin</a>
-<a href="https://www.behance.net/toliu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="toliu" height="30" width="40" />Behance</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/efa72942e8079d713b017f406ac3aed1d668d30d294e3b192722d44899e976a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426568616e63652d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/efa72942e8079d713b017f406ac3aed1d668d30d294e3b192722d44899e976a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426568616e63652d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 <h2 align="left">Skills</h2>

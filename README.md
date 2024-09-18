@@ -8,9 +8,12 @@
 
 
 <p align="left">
+ 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://codepen.io/toliu"><img src="https://camo.githubusercontent.com/8ef7106679e06cf1232d56885c233adfccddbe19d092cd2ceeb6773ec8e8c518/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/akatoliu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akatoliu" height="30" width="40" />Linkedin</a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/efa72942e8079d713b017f406ac3aed1d668d30d294e3b192722d44899e976a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426568616e63652d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/efa72942e8079d713b017f406ac3aed1d668d30d294e3b192722d44899e976a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426568616e63652d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/akatoliu/"><img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/Toliu"><img src="https://camo.githubusercontent.com/efa72942e8079d713b017f406ac3aed1d668d30d294e3b192722d44899e976a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426568616e63652d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d626568616e6365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&amp;logo=behance&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 <h2 align="left">Skills</h2>

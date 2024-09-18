@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aka-toliu&show_icons=true&locale=en&layout=compact" alt="aka-toliu"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <p>
  <a target="_blank" href="https://www.behance.net/Toliu">

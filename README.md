@@ -6,7 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a target="_blank" href="https://www.behance.net/Toliu">
+<p>
+ <a target="_blank" href="https://www.behance.net/Toliu">
 <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 </a> 
 
@@ -17,6 +18,7 @@
 <a target="_blank" href="ttps://codepen.io/toliu">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>  
+</p>
 
 
 <h2 align="left">Skills</h2>

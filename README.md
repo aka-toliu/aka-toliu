@@ -4,8 +4,8 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aka-toliu&show_icons=true&locale=en&layout=compact" alt="aka-toliu"/>
 </p>
-
-<h2 align="left">💬 Connect with me:</h2>
+</br>
+<h2 align="left">Connect with me:</h2>
 
 <p>
  <a target="_blank" href="https://www.behance.net/Toliu">
@@ -20,9 +20,9 @@
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </a>  
 </p>
+</br>
 
-
-<h2 align="left">👩‍💻 What I know:</h2>
+<h2 align="left">What I know:</h2>
 
 <p>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
@@ -38,8 +38,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
-
-<h2 align="left">🧠 What i'm learning:</h2>
+</br>
+  
+<h2 align="left">What i'm learning:</h2>
 <p>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 

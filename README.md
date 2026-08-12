@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Túlio!</h1>
 <p align="center">...also known as Toliu :)</p>
-<h3 align="center">Dev. Front end / UX & UI Designer</h3>
+<h3 align="center">Front-end Developer / UX & UI Designer</h3>
 </br>
 <h2 align="left">Connect with me:</h2>
 
